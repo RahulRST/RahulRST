@@ -2,6 +2,12 @@
 
 I'm a passionate developer who loves to create amazing things with code.
 
+#### 🎫 My Github Stats ...
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulRST&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRST&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+
 #### 🔭 I’m currently working on React and Express as a whole :)
 
 - A web app that helps people get their study notes 
@@ -19,11 +25,6 @@ I'm a passionate developer who loves to create amazing things with code.
 - Anything related to web development, especially front-end technologies
 - My favorite tools and resources for learning and improving as a developer
 - My hobbies and interests outside of coding -> Riding 🏍️
-
-#### 🎫 My Github Stats ...
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulRST&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRST&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 <!--
 #### 📫 How to reach me ...
