@@ -4,8 +4,7 @@ I'm a passionate developer who loves to create amazing things with code.
 
 #### 🎫 My Github Stats ...
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulRST&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRST&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulRST&count_private=true&hide=contribs,prs,issues&show_icons=true&hide_border=true&theme=transparent" />
 
 
 #### 🔭 I’m currently working on React and Express as a whole :)
