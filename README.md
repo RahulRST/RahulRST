@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 from [![RahulRST](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFF&width=435&lines=RahulRST)]
 
 I'm a passionate developer who loves to create amazing things with code.
 
