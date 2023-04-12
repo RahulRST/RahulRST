@@ -1,4 +1,4 @@
-### Hi there 👋 from 
+### Hi 👋 It's
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFF&width=435&lines=RahulRST" alt="Typing SVG" />
 
 I'm a passionate developer who loves to create amazing things with code.
@@ -27,10 +27,11 @@ I'm a passionate developer who loves to create amazing things with code.
 - My favorite tools and resources for learning and improving as a developer
 - My hobbies and interests outside of coding -> Riding 🏍️
 
-<!--
+
 #### 📫 How to reach me ...
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [srahuljayaraj@outlook.com](mailto:srahuljayaraj@outlook.com)
+<!--
 - Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 - LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
 
