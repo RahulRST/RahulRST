@@ -31,7 +31,7 @@ I'm a passionate developer who loves to create amazing things with code.
 #### 📫 How to reach me ...
 
 - Email: [srahuljayaraj@outlook.com](mailto:srahuljayaraj@outlook.com)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/rahulrst/)
+- LinkedIn: [RahulRST](https://www.linkedin.com/in/rahulrst/)
 
 <!--
 - Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
