@@ -4,7 +4,7 @@
 I'm a passionate developer who loves to create amazing things with code.
 
 #### 🎫 My Github Stats ...
-<div style="display: flex; flexdirection: column">
+<div style="display: flex; flex-direction: column">
   <img src="https://github-readme-stats.vercel.app/api?username=RahulRST&count_private=true&hide=contribs,prs,issues&show_icons=true&hide_border=true&theme=transparent" />
   <img src="https://streak-stats.demolab.com/?user=RahulRST&theme=transparent&hide_border=true" />
 </div>
