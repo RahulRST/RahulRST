@@ -14,7 +14,7 @@ I'm a passionate developer who loves to create amazing things with code.
 
 - A web app that helps people get their study notes 
 - A personal blog where I share my thoughts and experiences on various topics
-- A chrome extension that enhances the browsing experience with useful features
+- A portal for my college where they can pay their semester and exam fees
 
 #### 🌱 I’m currently learning ...
 
