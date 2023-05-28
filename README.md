@@ -9,7 +9,6 @@ I'm a passionate developer who loves to create amazing things with code.
   <img src="https://streak-stats.demolab.com/?user=RahulRST&theme=transparent&hide_border=true" />
 </div>
 
-
 #### 🔭 I’m currently working on React and Express as a whole :)
 
 - A web app that helps people get their study notes 
@@ -24,7 +23,7 @@ I'm a passionate developer who loves to create amazing things with code.
 
 #### 💬 Ask me about ...
 
-- Anything related to web development, especially front-end technologies
+- Anything related to web development, especially backend-end technologies
 - My favorite tools and resources for learning and improving as a developer
 - My hobbies and interests outside of coding -> Riding 🏍️
 
