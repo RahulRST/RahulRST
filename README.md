@@ -1,7 +1,9 @@
 ### Hi 👋 It's
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFF&width=435&lines=RahulRST" alt="Typing SVG" />
 
-I'm a passionate developer who loves to create amazing things with code.
+A **Programmer --> Developer** playing along with Python and C++
+Experimenting on JavaScript and so on (Full Stack)<br />
+A person who loves to do amazing things with code.
 
 #### 🎫 My Github Stats ...
 <div style="display: flex; flex-direction: column">
