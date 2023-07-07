@@ -22,6 +22,7 @@ A person who loves to do amazing things with code.
 - React.js for building fast and interactive web apps
 - MongoDB for managing data and APIs
 - Tailwind CSS for designing beautiful and responsive websites
+- Arduino for working on embedded systems and IoT
 
 #### 💬 Ask me about ...
 
