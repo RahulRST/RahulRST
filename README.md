@@ -1,5 +1,5 @@
 ### Hi 👋 It's
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFF&width=435&lines=RahulRST" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFF&width=435&lines=RahulRST" alt="Rahul RST" />
 
 A **Programmer --> Developer** playing along with Python and C++
 Experimenting on JavaScript and so on (Full Stack)<br />
