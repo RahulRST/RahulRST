@@ -1,41 +1,42 @@
-### Hi 👋 It's
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFF&width=435&lines=RahulRST" alt="Rahul RST" />
+### Hi there, I'm <br /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFF&width=435&lines=RahulRST" alt="Rahul RST" /><br /> 👋
 
-A **Programmer --> Developer** playing along with Python and C++
-Experimenting on JavaScript and so on (Full Stack)<br />
-A person who loves to do amazing things with code.
+## About Me
 
-#### 🎫 My Github Stats ...
+I'm a **Programmer --> Developer** who loves to build amazing things with code. My journey started with Python and C++, and over time, I've dabbled with various technologies, including JavaScript for both frontend and backend development.
+
+- 🔭 I’m currently working on:
+  - A web app that helps people get their study notes organized and easily accessible.
+  - My personal blog where I share my thoughts and experiences on tech, coding, and life.
+  - Developing a portal for my college to streamline semester and exam fee payments.
+
+- 🌱 I’m currently learning:
+  - React.js for building fast and interactive web apps.
+  - MongoDB for managing data and creating APIs.
+  - Tailwind CSS for designing beautiful and responsive websites.
+  - Arduino for working on embedded systems and exploring the world of IoT.
+
+## GitHub Stats
+
 <div style="display: flex; flex-direction: column">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulRST&count_private=true&hide=contribs,prs,issues&show_icons=true&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulRST&count_private=true&show_icons=true&hide_border=true&theme=transparent" />
   <img src="https://streak-stats.demolab.com/?user=RahulRST&theme=transparent&hide_border=true" />
 </div>
 
-#### 🔭 I’m currently working on React and Express as a whole :)
+## Tech Stack
 
-- A web app that helps people get their study notes 
-- A personal blog where I share my thoughts and experiences on various topics
-- A portal for my college where they can pay their semester and exam fees
+- Languages: Python, C++, JavaScript, HTML, CSS.
+- Frontend: React.js, Tailwind CSS.
+- Backend: Node.js, Express.js.
+- Databases: MongoDB, MySQL, PostgreSQL.
+- Tools: Git, VS Code, Postman, Docker.
 
-#### 🌱 I’m currently learning ...
+## Reach Me
 
-- React.js for building fast and interactive web apps
-- MongoDB for managing data and APIs
-- Tailwind CSS for designing beautiful and responsive websites
-- Arduino for working on embedded systems and IoT
+- 📫 Email: [srahuljayaraj@outlook.com](mailto:srahuljayaraj@outlook.com)
+- 💼 LinkedIn: [RahulRST](https://www.linkedin.com/in/rahulrst/)
+<!-- - 🌐 Portfolio: [YourWebsite](https://www.yourportfolio.com/) -->
 
-#### 💬 Ask me about ...
+## Fun Fact
 
-- Anything related to web development, especially backend-end technologies
-- My favorite tools and resources for learning and improving as a developer
-- My hobbies and interests outside of coding -> Riding 🏍️
+Outside of coding, you can find me riding my motorcycle, exploring nature, and capturing beautiful moments with my camera. 🏍️📸
 
-
-#### 📫 How to reach me ...
-
-- Email: [srahuljayaraj@outlook.com](mailto:srahuljayaraj@outlook.com)
-- LinkedIn: [RahulRST](https://www.linkedin.com/in/rahulrst/)
-
-<!--
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
--->
