@@ -38,5 +38,5 @@ I'm a **Programmer --> Developer** who loves to build amazing things with code. 
 
 ## Fun Fact
 
-Outside of coding, you can find me riding my motorcycle, exploring nature, and capturing beautiful moments with my camera. 🏍️📸
+Outside of coding, you can find me riding my motorcycle, exploring nature, and capturing beautiful moments with my camera . 🏍️📸
 
