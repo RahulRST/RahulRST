@@ -5,7 +5,7 @@
 I'm a **Programmer --> Developer** who loves to build amazing things with code. My journey started with Python and C++, and over time, I've dabbled with various technologies, including JavaScript for both frontend and backend development.
 
 - 🔭 I’m currently working on:
-  - A web app that helps people get their study notes organized and easily accessible.
+  - A web app that helps people get their study notes generated and easily accessible.
   - My personal blog where I share my thoughts and experiences on tech, coding, and life.
   - Developing a portal for my college to streamline semester and exam fee payments.
 
