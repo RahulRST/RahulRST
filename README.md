@@ -1,4 +1,4 @@
-### Hi there, I'm <br /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFF&width=435&lines=RahulRST" alt="Rahul RST" /><br /> 👋
+### Hi there, I'm <br /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000AFF&width=435&lines=RahulRST" alt="Rahul RST" /><br /> 👋
 
 ## About Me
 
