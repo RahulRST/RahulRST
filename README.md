@@ -28,7 +28,6 @@ I'm a **Programmer --> Developer** who loves to build amazing things with code. 
 - Frontend: React.js, Tailwind CSS.
 - Backend: Node.js, Express.js, Prisma ORM.
 - Databases: MongoDB, MySQL, PostgreSQL.
-- 
 - Tools: Git, VS Code, Postman, Docker.
 
 ## Reach Me
