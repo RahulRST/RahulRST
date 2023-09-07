@@ -24,20 +24,20 @@ I'm a **Programmer --> Developer** who loves to build amazing things with code. 
 
 ## Tech Stack
 
-- Languages: Python, C++, JavaScript, HTML, CSS.
+- Languages: Python, C++, JavaScript, TypeScript, HTML, CSS.
 - Frontend: React.js, Tailwind CSS.
-- Backend: Node.js, Express.js.
+- Backend: Node.js, Express.js, Prisma ORM.
 - Databases: MongoDB, MySQL, PostgreSQL.
 - 
 - Tools: Git, VS Code, Postman, Docker.
 
 ## Reach Me
 
-- 📫 Email: [srahuljayaraj@outlook.com](mailto:srahuljayaraj@outlook.com)
+- 📫 Email: [srahuljayaraj@outlook.com](mailto:srahuljayaraj@outlook.com?subject=Hi)
 - 💼 LinkedIn: [RahulRST](https://www.linkedin.com/in/rahulrst/)
 <!-- - 🌐 Portfolio: [YourWebsite](https://www.yourportfolio.com/) -->
 
 ## Fun Fact
 
-Outside of coding, you can find me riding my motorcycle, exploring nature, and capturing beautiful moments with my camera . 🏍️📸
+Outside of coding, you can find me riding my motorcycle, exploring nature, and capturing beautiful moments with my phone (which is better than a camera :) ) . 🏍️📸
 
