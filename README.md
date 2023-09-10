@@ -8,6 +8,7 @@ I'm a **Programmer --> Developer** who loves to build amazing things with code. 
   - A web app that helps people get their study notes generated and easily accessible.
   - My personal blog where I share my thoughts and experiences on tech, coding, and life.
   - Developing a portal for my college to streamline tuition and exam fee payments.
+  - A fun bingo game for a debugging event 
 
 - 🌱 I’m currently learning:
   - React.js for building fast and interactive web apps.
