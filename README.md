@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Programmer --> Developer** who loves to build amazing things with code. My journey started with Python and C++, and over time, I've dabbled with various technologies, including JavaScript for both frontend and backend development.
+I'm a **Programmer --> Developer** who loves to build amazing things with code. My journey started with Python and C, and over time, I've dabbled with various technologies, including JavaScript for both frontend and backend development.
 
 - 🔭 I’m currently working on:
   - A web app that helps people get their study notes generated and easily accessible.
